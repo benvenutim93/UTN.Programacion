@@ -1,0 +1,19 @@
+persona buscarMenorElemento ( nodo * lista)  // por edad
+(						// lista: 25 - 30 - 20 - 50
+	persona menor;
+	persona aux;
+	if (lista != NULL)
+	(
+		menor=lista->persona;
+		aux = buscarMenorElemento ( lista->sig);
+			if (aux != NULL)
+			(
+				if (menor>aux)
+					(
+						menor = aux;
+					)
+			)					//vas al final, y vas comparando de atras hacia adelante	
+	)
+
+	return menor;
+)

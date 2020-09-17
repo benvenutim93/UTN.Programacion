@@ -1,0 +1,10 @@
+nodo * agregarFinalRecursivo (nodo * lista, nodo * nn)
+(
+	if (lista == NULL)
+		lista=nn;
+	else
+		(
+		lista->sig = agregarFinalRecursivo (lista->sig,nn);
+		)
+	return lista;
+)
