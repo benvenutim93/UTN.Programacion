@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1567796208 source:f:\utn\programacion ii\listasenlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571407940 source:c:\users\mariana\desktop\marian\utn\programacion ii\enclase\listasenlazadas\listas.c
+	"listas.h"
+
+1571407946 c:\users\mariana\desktop\marian\utn\programacion ii\enclase\listasenlazadas\listas.h
+	<stdio.h>
+
+1571407930 source:c:\users\mariana\desktop\marian\utn\programacion ii\enclase\listasenlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listas.h"
+
