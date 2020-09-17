@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1553642414 source:h:\utn\programacion i\tp pilas\punto3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 h:\utn\programacion i\tp pilas\punto3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:h:\utn\programacion i\tp pilas\punto3\pila.c
+	"pila.h"
+

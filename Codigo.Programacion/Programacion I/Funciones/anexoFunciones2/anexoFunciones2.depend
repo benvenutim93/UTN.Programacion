@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1490112218 source:e:\utn\programacion i\funciones\anexofunciones2\pila.c
+	"pila.h"
+
+1490112218 
+
+1490112218 e:\utn\programacion i\funciones\anexofunciones2\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490101418 source:/run/media/colo/MARIAN HP~/UTN/Programacion I/Funciones/anexoFunciones2/pila.c
+	"pila.h"
+
+1490101418 /run/media/colo/MARIAN HP~/UTN/Programacion I/Funciones/anexoFunciones2/pila.h
+	<stdio.h>
+	<malloc.h>
+
+1556133258 source:/run/media/colo/MARIAN HP~/UTN/Programacion I/Funciones/anexoFunciones2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

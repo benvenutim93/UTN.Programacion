@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1561982930 source:f:\testfinal\admin.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"admin.h"
+	"usuario.h"
+
+1561982930 f:\testfinal\admin.h
+
+1561982932 f:\testfinal\usuario.h
+
+1561753282 f:\testfinal\menu.h
+	<stdio.h>
+
+1561982930 source:f:\testfinal\canciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"canciones.h"
+
+1561982932 f:\testfinal\canciones.h
+
+1561981492 source:f:\testfinal\menu.c
+	"menu.h"
+	"canciones.h"
+	"usuario.h"
+	"admin.h"
+	<stdio.h>
+	<stdlib.h>
+
+1561982930 source:f:\testfinal\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+
+1561983054 source:f:\testfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1562240070 source:f:\finaltest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1561988138 source:f:\testlibrerias\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+
+1561986264 f:\testlibrerias\usuario.h
+
+1562203958 source:i:\finaltest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1562246072 source:g:\finaltest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
+1572963795 source:c:\users\mariana\desktop\marian\utn\programacion i\finaltest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+

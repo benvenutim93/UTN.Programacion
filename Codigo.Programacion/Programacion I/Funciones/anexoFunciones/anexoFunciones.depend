@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1490112217 source:/home/colo/Escritorio/Marian/CodeBlocks/anexoFunciones/pila.c
+	"pila.h"
+
+1490112217 /home/colo/Escritorio/Marian/CodeBlocks/anexoFunciones/pila.h
+	<stdio.h>
+	<malloc.h>
+
+1555963061 source:/home/colo/Escritorio/Marian/CodeBlocks/anexoFunciones/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556033562 source:g:\utn\programacion i\arreglos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1490112218 source:f:\utn\programacion i\arreglos\arreglos\pila.c
+	"pila.h"
+
+1490112218 f:\utn\programacion i\arreglos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1557148248 source:f:\utn\programacion i\arreglos\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1490112218 source:c:\users\mariana\desktop\marian\utn\1er cuatri\programacion i\tp's\arreglos\arreglos\pila.c
+	"pila.h"
+
+1490112218 c:\users\mariana\desktop\marian\utn\1er cuatri\programacion i\tp's\arreglos\arreglos\pila.h
+	<stdio.h>
+	<malloc.h>
+

@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\usuario\desktop\asd\pila.c
+	"pila.h"
+
+1490112218 
+
+1490112217 c:\users\usuario\desktop\asd\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 
+
+1555334437 source:c:\users\usuario\desktop\asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1555939662 source:f:\funciones\asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<math.h>
+
+1490112218 f:\funciones\asd\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112218 source:f:\funciones\asd\pila.c
+	"pila.h"
+
+1490101418 source:/run/media/colo/MARIAN HP~/UTN/Programacion I/Funciones/asd/pila.c
+	"pila.h"
+
+1490101418 /run/media/colo/MARIAN HP~/UTN/Programacion I/Funciones/asd/pila.h
+	<stdio.h>
+	<malloc.h>
+

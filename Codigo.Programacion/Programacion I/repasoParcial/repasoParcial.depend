@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1557344437 source:/home/colo/Escritorio/Marian/CodeBlocks/repasoParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<math.h>
+
+1490112217 /home/colo/Escritorio/Marian/CodeBlocks/repasoParcial/pila.h
+	<stdio.h>
+	<malloc.h>
+
+1490112217 source:/home/colo/Escritorio/Marian/CodeBlocks/repasoParcial/pila.c
+	"pila.h"
+
