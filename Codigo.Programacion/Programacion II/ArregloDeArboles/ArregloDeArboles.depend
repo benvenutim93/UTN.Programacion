@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572979501 source:c:\users\mariana\desktop\marian\utn\programacion ii\arreglodearboles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

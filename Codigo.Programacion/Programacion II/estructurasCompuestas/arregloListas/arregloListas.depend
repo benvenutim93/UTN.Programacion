@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571230225 source:d:\arreglolistas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

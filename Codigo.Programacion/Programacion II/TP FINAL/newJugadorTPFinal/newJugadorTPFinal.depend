@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1573565545 source:c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"menu.h"
+
+1573129955 c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\jugador.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1573129955 source:c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\jugador.c
+	"jugador.h"
+
+1573132905 source:c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\menu.c
+	"menu.h"
+
+1573566192 c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\menu.h
+	<stdio.h>
+	"jugador.h"
+	"entrenadores.h"
+	"admin_usuario.h"
+
+1573563740 c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\entrenadores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+
+1573563948 c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\admin_usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1573564033 source:c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\admin_usuario.c
+	"admin_usuario.h"
+
+1573563740 source:c:\users\mariana\desktop\marian\utn\programacion ii\tp final\newjugadortpfinal\entrenadores.c
+	"entrenadores.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571764990 source:c:\users\mariana\desktop\marian\utn\programacion ii\practicasola\tiempo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

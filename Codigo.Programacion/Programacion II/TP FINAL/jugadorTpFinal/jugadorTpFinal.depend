@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571922360 source:c:\users\mariana\desktop\marian\utn\programacion ii\tp final\jugadortpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

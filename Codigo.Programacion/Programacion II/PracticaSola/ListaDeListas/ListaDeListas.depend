@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573002977 source:c:\users\mariana\desktop\marian\utn\programacion ii\practicasola\listadelistas\listas.c
+	"listas.h"
+
+1573002546 c:\users\mariana\desktop\marian\utn\programacion ii\practicasola\listadelistas\listas.h
+	<stdio.h>
+	<stdlib.h>
+

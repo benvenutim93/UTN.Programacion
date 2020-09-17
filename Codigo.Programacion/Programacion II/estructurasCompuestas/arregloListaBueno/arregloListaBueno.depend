@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571237680 source:d:\arreglolistabueno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1571237682 source:c:\users\mariana\desktop\marian\utn\estructurascompuestas\arreglolistabueno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

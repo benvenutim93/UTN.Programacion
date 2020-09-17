@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572895283 source:c:\users\mariana\desktop\marian\utn\programacion ii\librerias\libreriasarbol\arbol.c
+	"arbol.h"
+
+1572895283 c:\users\mariana\desktop\marian\utn\programacion ii\librerias\libreriasarbol\arbol.h
+	<stdio.h>
+
